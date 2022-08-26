@@ -1,0 +1,8 @@
+{
+  "name": "basicapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lokoamigo/basicapi.git",
+  "author": "lokoamigo <lokoamigo@github.com>",
+  "license": "MIT"
+}
